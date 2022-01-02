@@ -1,0 +1,13 @@
+	    Bank PBO
+	  Bukti Setoran
+	02-01-2022 21:50 WIB
+---------------------------------
+Nomor Transaksi	: 005
+Nama Nasabah	: SALSA
+Nomor Rekening  : 765312
+Saldo Awal		: 100000
+Jumlah Setoran	: 600000
+Bunga			: 14000
+Saldo Akhhir	: 714000
+
+Terima Kasih!!
